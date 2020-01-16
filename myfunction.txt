@@ -1,4 +1,4 @@
-one function - i have added one very important function.
+one function - i have added one ok function.
 two function - i have added one another very important function.
 three function - i have added an unecessary function.
 
@@ -13,3 +13,7 @@ base function - OK BETA
 
 
  added a chart in new branch.
+
+
+
+ adding a new function to login user via x method().
