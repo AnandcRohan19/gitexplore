@@ -10,3 +10,6 @@ newer function - newer added another time.
 
 newest function -  OK ALPHA
 base function - OK BETA
+
+
+ added a chart in new branch.
