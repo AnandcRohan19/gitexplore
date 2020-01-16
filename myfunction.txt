@@ -1,4 +1,4 @@
-one function - i have added one ok function.
+one function - i have added an important function.
 two function - i have added one another very important function.
 three function - i have added an unecessary function.
 
@@ -16,4 +16,3 @@ base function - OK BETA
 
 
 
- adding a new function to login user via x method().
